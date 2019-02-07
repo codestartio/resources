@@ -7,4 +7,5 @@ Free online learning resources gathering
 * [Internet Is Hard](https://internetingishard.com/)
 * [GitHub Flow Guide](https://guides.github.com/introduction/flow/)
 * [GitHub Try git](https://try.github.io/)
+* [Upcase Foundations track](https://thoughtbot.com/upcase/foundations)
 * [Upcase](https://thoughtbot.com/upcase)
